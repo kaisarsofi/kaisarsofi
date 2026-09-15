@@ -70,6 +70,16 @@ All projects: **[kaisarsofi.github.io](https://kaisarsofi.github.io/)**
 
 ---
 
+<div align='center'>
+
+![profile-3d](https://github.com/kaisarsofi/kaisarsofi/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+![contribution-graph](https://github.com/kaisarsofi/kaisarsofi/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+
+[![My GitHub stats](https://github-readme-stats-three-lake-70.vercel.app/api?username=kaisarsofi&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-three-lake-70.vercel.app/api/top-langs/?username=kaisarsofi&layout=compact&theme=tokyonight)](https://github.com/kaisarsofi/github-readme-stats)
+</div>
+
 ### 📊 GitHub Stats
 
 <p align="center">
