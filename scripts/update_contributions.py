@@ -97,7 +97,7 @@ def render(days, today):
         '<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace}'
         '</style><rect x="1" y="1" width="818" height="170" rx="14" '
         'fill="#0d1117" stroke="#30363d"/>'
-        '<text x="26" y="25" font-size="12" fill="#8b949e">CONTRIBUTIONS '</text>'
+        '<text x="26" y="25" font-size="12" fill="#8b949e">CONTRIBUTIONS </text>'
         '<text x="155" y="25" font-size="12" fill="#58a6ff">// LAST 53 WEEKS</text>'
         f'{months}'
         '<text x="22" y="52" font-size="9" fill="#8b949e">SUN</text>'
