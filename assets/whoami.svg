@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="238" viewBox="0 0 820 238" role="img" aria-labelledby="title desc">
+<title id="title">Kaisar Hameed · whoami</title>
+<desc id="desc">A terminal card with an animated KS monogram and profile details.</desc>
+<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace}.muted{fill:#8b949e}.bright{fill:#e6edf3}.blue{fill:#58a6ff}.green{fill:#3fb950}.line{stroke:#30363d}</style>
+<rect x="1" y="1" width="818" height="236" rx="14" fill="#0d1117" stroke="#30363d"/>
+<path d="M1 48h818" class="line"/>
+<circle cx="24" cy="25" r="6" fill="#ff7b72"/><circle cx="45" cy="25" r="6" fill="#d29922"/><circle cx="66" cy="25" r="6" fill="#3fb950"/>
+<text x="410" y="30" text-anchor="middle" font-size="13" class="muted">kaisar@github: ~</text>
+<text x="28" y="82" font-size="15" class="green">kaisar@github</text><text x="148" y="82" font-size="15" class="bright">$ whoami</text>
+<text x="74" y="158" font-size="48" font-weight="700" class="blue" opacity="0">KS<animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.5s" fill="freeze"/></text>
+<text x="74" y="187" font-size="12" class="muted" opacity="0">[ mobile builder ]<animate attributeName="opacity" from="0" to="1" begin="0.55s" dur="0.35s" fill="freeze"/></text>
+<path d="M245 105v94" class="line"/>
+<text x="278" y="116" font-size="14" class="muted" opacity="0">NAME <tspan dx="20" class="bright">Kaisar Hameed</tspan><animate attributeName="opacity" from="0" to="1" begin="0.55s" dur="0.35s" fill="freeze"/></text>
+<text x="278" y="145" font-size="14" class="muted" opacity="0">ROLE <tspan dx="24" class="bright">React Native (Expo) developer</tspan><animate attributeName="opacity" from="0" to="1" begin="0.8s" dur="0.35s" fill="freeze"/></text>
+<text x="278" y="174" font-size="14" class="muted" opacity="0">BUILDING <tspan dx="4" class="bright">Production mobile products</tspan><animate attributeName="opacity" from="0" to="1" begin="1.05s" dur="0.35s" fill="freeze"/></text>
+<text x="278" y="203" font-size="14" class="muted" opacity="0">OPEN SOURCE <tspan dx="4" class="bright">react-native-tour-guide</tspan><animate attributeName="opacity" from="0" to="1" begin="1.3s" dur="0.35s" fill="freeze"/></text>
+</svg>
